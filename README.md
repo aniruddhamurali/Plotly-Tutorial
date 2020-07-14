@@ -19,4 +19,6 @@ pip3 install pandas plotly
 
 ## Running the Code
 To run the code from a file:
-'<addr>' python3 [name of file]
+```console
+python3 [name of file]
+```
